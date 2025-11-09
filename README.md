@@ -27,7 +27,7 @@ bcrypt	Password hashing
 jsonwebtoken (JWT)	Authentication
 ⚙️ Setup & Installation
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/personal-blog-backend.git
+git clone https://github.com/Al0kDev/Personal-Vlog-Website
 cd personal-blog-backend
 
 2️⃣ Install dependencies
